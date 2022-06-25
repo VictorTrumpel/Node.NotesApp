@@ -1,4 +1,4 @@
-# Приложение заметок. Backend: Node.js, Front: Svelte
+# Приложение заметок.
 
 ![img.png](img.png)
 ___
